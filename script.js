@@ -25,7 +25,7 @@ const goToLoginPage = () => {
 	loginPage.style.display ='grid';
 };
 middleContent.addEventListener('click', e => {
-	if (e.target.classList[1] === '.log-in-main-btn' || e.target.classList[1] === '.sign-up-main-btn') {
+	if (e.target.classList[1] === '.middle-content main') {
 		goToLoginPage();
 	}
 });

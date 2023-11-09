@@ -137,19 +137,19 @@ body {
 	transition: background-color 0.3s;
 }
 
-.sign-up-main-btn {
+.sign-up{
 	background-color: #1aa1f5;
 	color: #fff;
 }
-.sign-up-main-btn:hover {
+.sign-up:hover {
 	background-color: #0f5d8d;
 }
 
-.log-in-main-btn {
+.log-in{
 	background-color: #fff;
 }
 
-.log-in-main-btn:hover {
+.log-in:hover {
 	background-color: #d9ebf7;
 }
 .main-page-footer {
